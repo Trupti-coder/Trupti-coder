@@ -1,12 +1,34 @@
-- 👋 Hi there! I’m Trupti-coder, a passionate Full-Stack Developer skilled in the MERN stack.
-- 👀 I’m interested in Full-Stack Development and building efficient web applications
-- 🌱 I’m Currently deepening my knowledge in advanced MERN concepts and actively looking for job opportunities in web development..
-- 💞️ I’m looking to collaborate on open-source projects, especially in JavaScript and MERN stack.
-- 📫 How to reach me  [truptiwagaskar4937@gmail.com] or connect with me on [linkedin.com/in/trupti-wagaskar-a02877320].
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact:  I love solving coding challenges and exploring the latest tech trends!
+# 👋 Hi there! I'm Trupti Wagaskar (aka Trupti-coder)
 
-<!---
-Trupti-coder/Trupti-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 A passionate **Full-Stack Developer** skilled in the **MERN stack** (MongoDB, Express, React, Node.js).
+---
+### 🔍 About Me
+- 👀 I'm deeply interested in full-stack development and building efficient, scalable web apps.
+- 🌱 Currently learning advanced MERN concepts and actively looking for opportunities in web development.
+- 💞️ I love collaborating on open-source projects, especially in **JavaScript** and the **MERN stack**.
+- ⚡ Fun fact: I enjoy solving coding challenges and exploring the latest tech trends!
+- 😄 Pronouns: She/Her
+
+---
+
+### 🛠️ Projects
+Here are some of my key projects:
+
+🔹 **[To-Do App in React](https://github.com/Trupti-coder/todo-app)**  
+🛠️ Built a simple and clean CRUD app using React hooks and localStorage.
+
+🔹 **[Weather Forecast App](https://github.com/Trupti-coder/weather-app)**  
+🌤️ Consumes an open API to show current weather based on user’s location.
+
+🔹 **[Bookstore Project](https://github.com/Trupti-coder/bookstore-project)**  
+📚 Developed a **bookstore application** using React, allowing users to browse, search, and purchase books. Integrated with a back-end to manage book inventory and orders.
+
+---
+
+### 📬 Reach Me At:
+- 📧 **Email:** truptiwagaskar4937@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/trupti-wagaskar-a02877320](https://www.linkedin.com/in/trupti-wagaskar-a02877320)
+
+---
+
+> Thanks for stopping by — let's connect and build something awesome!
