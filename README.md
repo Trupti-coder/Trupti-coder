@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Trupti Wagaskar (aka Trupti-coder)
+# 👋 Hi there! I'm Trupti Wagaskar
 
 💻 A passionate **Full-Stack Developer** skilled in the **MERN stack** (MongoDB, Express, React, Node.js).
 ---
